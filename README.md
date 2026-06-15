@@ -93,5 +93,14 @@ The content maintains a friendly, motivational, supportive, and professional ton
 * outputs/captions.md – Instagram captions
 * documentation/prompt_logic.md – Prompt design explanation
 
+## Project Showcase
+
+Notion Documentation:
+
+https://frosted-seatbelt-26e.notion.site/AI-Generated-UGC-Ad-Content-Pack-for-Fitness-Studio-Gym-380108988606808f9242c19079575ca0
+
+The Notion page provides a structured presentation of the project, including business analysis, prompt engineering approach, generated outputs, and skills demonstrated.
+
+
 
 Christ College of Engineering, Irinjalakuda
