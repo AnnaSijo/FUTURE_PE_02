@@ -61,4 +61,37 @@ Anna Sijo
 
 B.Tech Computer Science Engineering
 
+## How This Project Demonstrates Key Skills
+
+### AI-Driven Content Marketing
+
+AI was used to generate marketing assets such as hooks, UGC ad scripts, CTAs, and Instagram captions for a real fitness business.
+
+### UGC Ad Scripting
+
+The generated scripts were written from a customer perspective to create authentic and relatable advertising content.
+
+### Ad Psychology & Hooks
+
+The hooks focus on common customer pain points such as weight gain, lack of confidence, low stamina, and fitness motivation to capture attention and encourage engagement.
+
+### Prompt Engineering for Conversions
+
+A structured master prompt was designed using business information, target audience details, customer pain points, desired outcomes, and brand voice requirements to generate conversion-focused content.
+
+### Brand Voice Adaptation
+
+The content maintains a friendly, motivational, supportive, and professional tone that aligns with the brand identity of Fitness Studio Gym.
+
+
+## Repository Contents
+
+* prompts/master_prompt.md – Structured AI prompt
+* outputs/hooks.md – Scroll-stopping hooks
+* outputs/scripts.md – UGC ad scripts
+* outputs/ctas.md – Call-to-action examples
+* outputs/captions.md – Instagram captions
+* documentation/prompt_logic.md – Prompt design explanation
+
+
 Christ College of Engineering, Irinjalakuda
